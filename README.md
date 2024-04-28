@@ -15,6 +15,12 @@
 
 This data analysis project aims to delve into workforce reduction patterns spanning the years 2020 to 2023 across various industries and countries.We will be analyzing the top 20 companies with the highest layoff, industries and the country. By scrutinizing data from this period,
  we endeavor to grasp the nuances and fluctuations in layoffs, shedding light on the global economic ramifications during this period.
+ 
+![Dashboard 1 (1)](https://github.com/AbiAjayi/Layoff-Analysis/assets/167730368/ae62e3a1-c40b-426d-ae81-b65e003b933f)
+
+
+
+ 
 
  ### Data Source
  
@@ -22,7 +28,7 @@ This data analysis project aims to delve into workforce reduction patterns spann
 
  ### Tools
 
- - SQL Server- Data Cleaning[Download Here]
+ - SQL Server- Data Cleaning
 - SQL Server- Exploratory Data Analysis
 - Tableau- Report Generation and Visualization [View here](https://public.tableau.com/app/profile/abimbola.ajayi8433/vizzes)
 
