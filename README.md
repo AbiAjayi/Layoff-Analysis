@@ -163,9 +163,18 @@ AND L2.industry <> '';
 EDA involve exploring the data to answer the key questions, such as:
 
 - What are the top 20 companies experiencing the highest number of layoffs?
+  
+  ![image](https://github.com/AbiAjayi/Layoff-Analysis/assets/167730368/6d2470c7-aac8-477b-837a-9fdab5f37ecc)
+
 - What industries that experienced the highest and lowest rates of layoffs?
+  
+![image](https://github.com/AbiAjayi/Layoff-Analysis/assets/167730368/a8b26746-9b75-4caf-9b1d-61a1aaa4e8db)
+
 - Which countries has the highest rates of layoffs?
 - What was the year with the highest number of layoffs recorded?
+  
+![image](https://github.com/AbiAjayi/Layoff-Analysis/assets/167730368/16ce77ab-2b7d-49ec-9d3f-b61c8cd0fee6)
+
 - Which companies had the highest number of layoffs in each year?
 
 ### Data Analysis
