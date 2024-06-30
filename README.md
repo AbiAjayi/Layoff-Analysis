@@ -169,6 +169,7 @@ EDA involve exploring the data to answer the key questions, such as:
 - Which countries has the highest rates of layoffs?
 - What was the year with the highest number of layoffs recorded?
   
+![Chart 1](https://github.com/AbiAjayi/Layoff-Analysis-Project/assets/167730368/9df1762f-bc0b-4741-b376-300181518961) ![Chart 2](https://github.com/AbiAjayi/Layoff-Analysis-Project/assets/167730368/cc35a334-cfe8-4d38-a73d-07d48b635577)
 
 - Which companies had the highest number of layoffs in each year?
 
